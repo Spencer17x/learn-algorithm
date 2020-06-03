@@ -1,0 +1,15 @@
+{
+  "name": "data_structure",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "commit": "git add . && git cz"
+  },
+  "devDependencies": {
+    "git-cz": "^4.6.2",
+    "jest": "^26.0.1",
+    "typescript": "^3.9.3"
+  }
+}
