@@ -17,7 +17,7 @@ describe('二分搜索树', function () {
 			size: 3
 		});
 	});
-	
+
 	it('contain', function () {
 		expect(node.contain(1)).toBeTruthy();
 		expect(node.contain(2)).toBeTruthy();

@@ -350,6 +350,6 @@ const println = () => {
 	// console.log(bst.removeMax());
 };
 
-println();
+// println();
 
 module.exports = { BSTNode, BST };
